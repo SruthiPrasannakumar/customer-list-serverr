@@ -1,0 +1,22 @@
+{
+  "employeeDetails": [
+    {
+      "userName": "Leanne Graham",
+      "email": "Sinere@april.biz",
+      "status": "active",
+      "id": "101"
+    },
+    {
+      "id": "102",
+      "userName": "Ervin Howell",
+      "email": "Shanna@melissa.tv",
+      "status": "active"
+    },
+    {
+      "userName": "Alfin ",
+      "email": "alfin53@gmail.com",
+      "status": "inactive",
+      "id": "103"
+    }
+  ]
+}
